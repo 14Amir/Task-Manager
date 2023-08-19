@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1626605457 source:c:\users\amir\desktop\term4\ap\project\final_project\task.cpp
+	"task.h"
+	<iomanip>
+
+1626610773 source:c:\users\amir\desktop\term4\ap\project\final_project\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<ctime>
+	"yearbook.h"
+	"employee.h"
+
+1626603127 source:c:\users\amir\desktop\term4\ap\project\final_project\date.cpp
+	<iostream>
+	"date.h"
+	<stdexcept>
+	<iomanip>
+
+1626603126 c:\users\amir\desktop\term4\ap\project\final_project\date.h
+	<string>
+	<iostream>
+
+1626591429 c:\users\amir\desktop\term4\ap\project\final_project\task.h
+	<iostream>
+	<string>
+	"time.h"
+	"date.h"
+
+1626603126 c:\users\amir\desktop\term4\ap\project\final_project\time.h
+	<string>
+	<iostream>
+
+1626603126 source:c:\users\amir\desktop\term4\ap\project\final_project\time.cpp
+	<iostream>
+	<iomanip>
+	"time.h"
+
+1626605457 source:c:\users\amir\desktop\term4\ap\project\final_project\employee.cpp
+	"employee.h"
+	<iomanip>
+
+1626593004 c:\users\amir\desktop\term4\ap\project\final_project\employee.h
+	<iostream>
+	<string>
+	"time.h"
+	"yearbook.h"
+	<vector>
+	<algorithm>
+
+1626590218 c:\users\amir\desktop\term4\ap\project\final_project\yearbook.h
+	"month.h"
+
+1626421831 c:\users\amir\desktop\term4\ap\project\final_project\month.h
+	"day.h"
+
+1626611011 c:\users\amir\desktop\term4\ap\project\final_project\day.h
+	<vector>
+	<algorithm>
+	"task.h"
+
